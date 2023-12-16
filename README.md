@@ -16,3 +16,9 @@ Intially check extension of file either .pdf or .docx. Convert pdf or docx file 
 * Mail id: mail.py
 * Qualification: qualification.py
 * Technical Skills: skills.py
+
+#Installation
+pip install spacy 
+pip install pdfminer.six
+pip install nltk 
+python -m spacy download en_core_web_sm
